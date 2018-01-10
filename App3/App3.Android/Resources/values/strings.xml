@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">Databáze studentů</string>
+	<string name="tab1">Studenti</string>
+	<string name="tab2">O aplikaci</string>
+	<string name="signin">Sign In</string>
+	<string name="notnow">Not Now</string>
+	<string name="signing_in">Signing in...</string>
+	<string name="version_number">Version 1.0</string>
+	<string name="login">Login</string>
+	<string name="learn_more">Learn More</string>
+	<string name="fName">Jméno</string>
+	<string name="lName">Příjmení</string>
+  <string name="email">Email</string>
+  <string name="text">Text:</string>
+	<string name="quantity">Quantity:</string>
+	<string name="hint_name">Name</string>
+	<string name="info">Informace</string>
+	<string name="hint_description">Popis</string>
+	<string name="app_description">Tato aplikace byla napsána v jazyce C# a nativním API s využitím platformy Xamarin. Komunikuje pomocí REST API s databází Azure Cosmos DB.</string>
+  <string name="faculty_prompt">Vyberte fakultu</string>
+  <string-array name="faculty_array">
+    <item>Fakulta Aplikované informatiky</item>
+    <item>Fakulta Humanitních studií</item>
+  </string-array>
+</resources>
